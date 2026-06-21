@@ -1,6 +1,6 @@
 cask "frok" do
-  version "1.1.0"
-  sha256 "6ddc51817289b514c1cdc815d6f845319765d8492c3f8c1007bd1e0ba33cb736"
+  version "1.1.1"
+  sha256 "6b7f620b8a50b967058d4503ee69c6ea41a269fbaed73dc263811d41e40e9b16"
 
   url "https://github.com/yabred/FROK/releases/download/v#{version}/FROK-#{version}.zip"
   name "FROK"
